@@ -124,10 +124,7 @@ border-radius: 5px;</string>
             <property name="styleSheet">
              <string notr="true">QPushButton {
 	border-radius: 5px;
-	background-image: url(:/Close_Image/Close_image/cil-x.png);
-	background-position: center;
 	
-	background-color: rgb(255, 0, 255);
 }
 QPushButton:hover {
 	
@@ -141,7 +138,7 @@ QPushButton:pressed {
 </string>
             </property>
             <property name="text">
-             <string/>
+             <string>x</string>
             </property>
            </widget>
           </item>
@@ -217,8 +214,6 @@ QPushButton:pressed {
    </property>
   </widget>
  </widget>
- <resources>
-  <include location="../file_rc.qrc"/>
- </resources>
+ <resources/>
  <connections/>
 </ui>

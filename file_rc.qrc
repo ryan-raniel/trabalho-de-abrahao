@@ -1,0 +1,16 @@
+<RCC>
+  <qresource prefix="Close_Image">
+    <file>Close_image/hd cinefundo.png</file>
+    <file>Close_image/hd cinefundo.png</file>
+    <file>Close_image/cinefundo.png</file>
+    <file>Close_image/cil-x.png</file>
+  </qresource>
+  <qresource prefix="Avatar">
+    <file>Close_image/avatar.png</file>
+  </qresource>
+  <qresource prefix="logo">
+    <file>Close_image/Icon.ico</file>
+    <file>Close_image/lovepik-cinema-png-image_401314394_wh1200.png</file>
+    <file>Close_image/cinefundo.png</file>
+  </qresource>
+</RCC>
