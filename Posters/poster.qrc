@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="poster">
+    <file>barbie.jpg</file>
+    <file>ope.jpg</file>
+  </qresource>
+</RCC>
